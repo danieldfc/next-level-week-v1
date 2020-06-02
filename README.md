@@ -2,9 +2,9 @@
   <img width='200' height='200' alt="GoStack" src="assets/logo-nwl.png" />
 </p>
 
-<h3 align="center">
+<h1 align="center">
   Next Level Week
-</h3>
+</h1>
 
 <blockquote align="center">“Avance para o próximo level”!</blockquote>
 
@@ -12,11 +12,11 @@
 
 Este é um evento totalmente gratuito e online, criado pela empresa [Rocketseat](https://github.com/Rocketseat), onde ficará disponível do dia 01/06 até 23:59pm do dia 07/06, esta edição.
 
-E o objetivo deste evento é você alcançar o próximo level como programador(a), com as tecnologias mas modernas no mercado: **Node.js** para o backend e o **React** para o frontend, tanto na parte web (ReactJs), como também para o mobile (React Native).
+E o objetivo deste evento é você alcançar o próximo level como programador(a), com as tecnologias mas modernas do mercado: **Node.js** para o backend e o **React** para o frontend, tanto na parte web (ReactJs), como também para o mobile (React Native).
 
 Já pensou em quanto de conhecimento você pode adquirir neste evento?
 
-> Simplismente infinito !! :rocket: 💜
+> Simplismente infinito !! 🚀
 
 Ou seja, você vai estar ápto para concorrer aquela vaga que você tanto tem colocado o seu foco.
 
