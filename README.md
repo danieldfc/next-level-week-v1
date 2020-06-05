@@ -79,7 +79,7 @@ Para executar o projeto mobile, você precisará estar com o aplicativo `expo-cl
 $ yarn start
 ```
 
-Logo depois, você irá scanear o qr-code e neste momento, o expo cuidará do bundle da aplicação sozinho. Deixando você ápto para avançar no projeto.
+Logo depois, vai abrir uma aba no seu navegador, depois você abrirá o aplicativo instalado e scanear o qr-code e neste momento, o expo cuidará do bundle da aplicação sozinho. Deixando você ápto para avançar no projeto.
 
 ##  📝 Mensagem Final
 
