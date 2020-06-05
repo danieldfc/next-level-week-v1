@@ -3,10 +3,14 @@
 </p>
 
 <h1 align="center">
-  Next Level Week
+  Next Level Week#01 - Ecoleta
 </h1>
 
 <blockquote align="center">“Avance para o próximo level”!</blockquote>
+
+<p>
+  <img src="assets/web.gif" />
+</p>
 
 ## :rocket: Sobre o NLW
 
@@ -18,13 +22,25 @@ Já pensou em quanto de conhecimento você pode adquirir neste evento?
 
 > Simplismente infinito !! 🚀
 
-Ou seja, você vai estar ápto para concorrer aquela vaga que você tanto tem colocado o seu foco.
+Ou seja, você vai estar ápto para concorrer aquela vaga que você tanto sonhou.
 
 ___
 
+## ⛏ Projeto
+
+A Rocketseat cuidou muito bem do desenvolvimento deste projeto, chamado de **Ecoleta**.
+
+Onde passamos por diversos conceitos das tecnologias:
+
+- [Node.js](https://nodejs.org/en/) <small>- Backend</small>
+- [ReactJs](https://pt-br.reactjs.org/) <small>- Frontend</small>
+- [React Native](https://reactnative.dev/) <small>- Mobile</small>
+
+##  📝 Mensagem Final
+
 Se eu pudesse no fim deste README, te deixar uma mensagem, seria essa:
 
-<blockquote>Não fique estagnado, busque sempre mais!</blockquote>
+> Não fique estagnado, busque sempre mais!
 
 Então vem com a gente embarcar neste foguete? [Acesse o link](https://nextlevelweek.com/inscricao/1) e se inscreva, ainda tem tempo *jovem dev*!
 
