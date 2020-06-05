@@ -32,9 +32,54 @@ A Rocketseat cuidou muito bem do desenvolvimento deste projeto, chamado de **Eco
 
 Onde passamos por diversos conceitos das tecnologias:
 
-- [Node.js](https://nodejs.org/en/) <small>- Backend</small>
-- [ReactJs](https://pt-br.reactjs.org/) <small>- Frontend</small>
-- [React Native](https://reactnative.dev/) <small>- Mobile</small>
+- [Node.js](https://nodejs.org/en/) - Backend
+- [ReactJs](https://pt-br.reactjs.org/) - Frontend
+- [React Native](https://reactnative.dev/) - Mobile
+
+## 🔥 Starting
+
+### :zap: Server
+
+Para conseguir startar a aplicação, você precisa, instalar as dependências de cada projeto (server, web, mobile), em cada pasta executar:
+
+```bash
+$ yarn
+```
+
+Depois que instalar as dependências, você executará os comandos para criar as migrations e os seeds, na pasta `server`, onde todos os scripts, você encontrará no arquivo `package.json`, para facilitar, faça o seguinte:
+
+```bash
+$ yarn knex:migrate
+```
+
+```bash
+$ yarn knex:seed
+```
+
+Agora para iniciar o backend, você irá executar:
+
+```bash
+$ yarn dev
+```
+### 🖥 Frontend
+
+Agora para startar o frontend, você entrará na pasta e executará:
+
+```bash
+$ yarn start
+```
+
+Com isso você já vai estar executando o frontend da aplicação.
+
+### 📱 Mobile
+
+Para executar o projeto mobile, você precisará estar com o aplicativo `expo-client` no seu dispositivo. Com ele, basta entrar na pasta mobile e executar:
+
+```bash
+$ yarn start
+```
+
+Logo depois, você irá scanear o qr-code e neste momento, o expo cuidará do bundle da aplicação sozinho. Deixando você ápto para avançar no projeto.
 
 ##  📝 Mensagem Final
 
