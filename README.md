@@ -1,5 +1,5 @@
 <p align='center'>
-  <img width='200' height='200' alt="GoStack" src="assets/logo-nwl.png" />
+  <img width='200' height='200' alt="GoStack" src="https://raw.githubusercontent.com/danieldfc/next-level-week-v1/master/assets/logo-nwl.png" />
 </p>
 
 <h1 align="center">
